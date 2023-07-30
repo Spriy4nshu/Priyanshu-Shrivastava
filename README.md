@@ -9,4 +9,3 @@
 - ⚡ Fun fact: There is one genre of music that AI absolutely hates: Algorhythms
 
 
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
